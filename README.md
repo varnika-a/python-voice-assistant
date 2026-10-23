@@ -1,8 +1,8 @@
-# 🎙️ Babygirl Voice Assistant
+# 🎙️ Voice Assistant
 
 ## Overview
 
-Babygirl Voice Assistant is a Python-based voice-controlled virtual assistant designed to perform everyday digital tasks through natural voice interaction. Powered by speech recognition and automation, the assistant listens for personalized wake words and executes commands seamlessly, creating a simple yet engaging hands-free experience.
+Voice Assistant is a Python-based voice-controlled virtual assistant designed to perform everyday digital tasks through natural voice interaction. Powered by speech recognition and automation, the assistant listens for personalized wake words and executes commands seamlessly, creating a simple yet engaging hands-free experience.
 
 This project represents one of my earliest explorations into software development and automation, where I combined multiple Python libraries to build a functional voice assistant capable of responding to user commands in real time.
 
